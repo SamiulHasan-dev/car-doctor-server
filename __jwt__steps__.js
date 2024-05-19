@@ -1,4 +1,6 @@
-/* 
-    install jsonwebtoken
-    jwt.sign(payload, secret, {expiredIn: })
+/*
+    * install jsonwebtoken
+    * jwt.sign(payload, secret, {expiredIn: })
+    * token client
 */
+
