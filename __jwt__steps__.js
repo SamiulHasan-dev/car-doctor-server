@@ -24,3 +24,9 @@
     3. client side axios settings
       -> in axios set withCredentials: true 
 */
+
+
+/* 
+    1. to send cookies from the client make sure you added withCredential: true for the api call using axios
+    2. use cookie parser as middle ware
+*/
